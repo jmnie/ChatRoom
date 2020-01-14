@@ -1,4 +1,2 @@
 .vscode
-*.pro
-Makefile
 .qmake.stash
