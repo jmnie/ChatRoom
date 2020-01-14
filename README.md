@@ -1,5 +1,5 @@
-# ChatRoom
-Chat Room Project
+# IMQT
+Instant Messaging implemented by Qt (C++).
 
 ## Implementation 
 C++ and Qt, SQL
