@@ -6,8 +6,8 @@
 * Implemented features for user registration, password reset and change avatar.
 
 ## Client 
-> * Used Qt Widget for the interfaces.
-> * Used TCP protocol for the communication.
+* Used Qt Widget for the interfaces.
+* Used TCP protocol for the communication.
 
 ![Client Interface](images/client1.png)
 
@@ -16,15 +16,15 @@
 ![Chat Room](images/chatRoom.png)
 
 ## Server
-> * Used MySQL as the back-end server to store historical messages. 
-> * Used muduo network library https://github.com/chenshuo/muduo
+* Used MySQL as the back-end server to store historical messages. 
+* Used muduo network library https://github.com/chenshuo/muduo
 
 ![Server Info](images/server.png)
 
 
 ## Useage
 This project requried server to start on the back end which could start use:
-> * bash start.sh
+* bash start.sh
 Then the server will run in the backend. User could login to the server and perform functionabilities. 
 
 
