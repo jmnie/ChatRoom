@@ -1,9 +1,9 @@
 # Instant Messaging Application using Qt and C++
-> * A socket programming project implemented in Qt and C++ supporting real-time communication.
-> * Developed server and client using Qt in C++ for real-time communication based on TCP protocol.
-> * Supported multiple users login at the same time and implemented group chat function for multiple users.
-> * Used MySQL in the back-end to store the users’ properties and historical messages.
-> * Implemented features for user registration, password reset and change avatar.
+* A socket programming project implemented in Qt and C++ supporting real-time communication.
+* Developed server and client using Qt in C++ for real-time communication based on TCP protocol.
+* Supported multiple users login at the same time and implemented group chat function for multiple users.
+* Used MySQL in the back-end to store the users’ properties and historical messages.
+* Implemented features for user registration, password reset and change avatar.
 
 ## Client 
 > * Used Qt Widget for the interfaces.
